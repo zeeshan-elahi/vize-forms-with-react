@@ -19,7 +19,7 @@ Just copy or fork '@vize-forms' component directory available in './src/' to you
 
 Import 'VIZEForms' component to your application, page or component.
 
-And '<VIZEForms />' to use it in your code.
+And `<VIZEForms />` to use it in your code.
 
 I have removed code related to passing of props, asyncronous load of form structure/configuration JSON and submission of form from this.
 
