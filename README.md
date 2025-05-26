@@ -2,7 +2,7 @@
 
 VIZE Forms is a multipurpose React component that generate dynamic forms using Material-UI components for React.
 
-This repository is a demonstration or a small part of actual VIZE Forms module that I recently implemented for one of my clients. Full project details are available [here](https://www.zeeshanelahi.com/2020/07/vize-forms-a-react-component-with-spring-boot-apis-manager/) on my [website](https://www.zeeshanelahi.com/).
+This repository is a demonstration or a small part of actual VIZE Forms module. Full project details are available [here](https://www.zeeshanelahi.com/2020/07/vize-forms-a-react-component-with-spring-boot-apis-manager/) on my [website](https://www.zeeshanelahi.com/).
 
 Here is how you can run and revie this application.
 
@@ -49,4 +49,4 @@ Follow me on
 | [Instagram](https://www.instagram.com/zeeshanelahi_official/)
 
 
-Copyright [Zeeshan Elahi](https://zeeshanelahi.com) 2020
+Copyright [Zeeshan Elahi](https://zeeshanelahi.com) 2025
